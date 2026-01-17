@@ -18,7 +18,7 @@ Dedico 100% do meu tempo ao domínio da base e arquitetura:
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 
 - **Linguagem C (Low-Level):** Gerenciamento de memória, ponteiros e algoritmos. *(Memory management, pointers, and algorithms).*
-- **Java & Clean Code:** Arquitetura robusta e código limpo baseado em princípios de engenharia. *(Robust architecture and clean code based on engineering principles).*
+- **Java & Clean Code:** Arquitetura robusta e código limpo baseado em princípios de engenharia. *(Robust architecture and clean code).*
 
 ---
 
@@ -33,10 +33,12 @@ Tecnologias que já integram meu conjunto de habilidades:
 ---
 
 ### 🔮 Pretendo aprender depois | Roadmap
-*Future steps in my development journey:*
+*Future steps in my development journey - From automation to deep hardware:*
 
+![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-%2300599C.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)
 
 ---
 
