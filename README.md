@@ -1,6 +1,6 @@
 # Olá, eu sou o Kauan Oliveira 👋 (Hi, I'm Kauan!)
 
-**Desenvolvedor Autodidata | Software Engineering & Low-Level Enthusiast**
+**Desenvolvedor Autodidata | Software Engineering & Cybersecurity Enthusiast**
 
 Sou um desenvolvedor focado em engenharia de software e nos fundamentos da computação. Atualmente, estou em uma jornada de imersão técnica profunda para consolidar uma carreira de elite até 2026. Acredito que para dominar o topo, é preciso entender a base.
 
@@ -22,6 +22,18 @@ Dedico meu tempo ao domínio da base, arquitetura e sistemas operacionais:
 
 ---
 
+### 🛡️ Cibersegurança | Cybersecurity Research
+Estudo o comportamento de vulnerabilidades para construir aplicações resilientes:
+*Studying vulnerability behavior to build resilient applications:*
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+
+- **Memory Safety:** Análise de falhas em C (Buffer Overflow) e proteção de memória. *(Memory safety and pointer protection).*
+- **Linux Hardening:** Configuração e proteção de ambientes baseados em Arch/EndeavourOS. *(Linux system hardening).*
+
+---
+
 ### 🌐 Frontend & Web (Base & Continuous Improvement)
 Mantenho minha base de web ativa, refinando a qualidade do código e a performance:
 *Maintaining my web base active, refining code quality and performance:*
@@ -33,8 +45,8 @@ Mantenho minha base de web ativa, refinando a qualidade do código e a performan
 ---
 
 ### 🖥️ Lab & OS (Environment)
-Ambientes onde estudo segurança e desenvolvimento de sistemas:
-*Environments where I study security and systems development:*
+Meus ambientes de desenvolvimento e testes de segurança:
+*My development and security testing environments:*
 
 ![EndeavourOS](https://img.shields.io/badge/EndeavourOS-%237f3fbf.svg?style=for-the-badge&logo=EndeavourOS&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
