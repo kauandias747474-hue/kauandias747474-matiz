@@ -54,8 +54,8 @@ Ambientes onde estudo segurança e desenvolvimento de sistemas:
 ### 🚀 Projetos em Destaque | Featured Projects
 
 - **[Aprendizado-C](https://github.com/kauandias747474-hue/C-)**: Repositório focado na "alma da máquina" e lógica de baixo nível. *(Deep dive into machine-level logic).*
-- **[Java-Fundamentals](https://github.com/kauandias747474-hue/Java-)**: Práticas de engenharia e boas práticas com Java e Clean Code. *(Engineering practices with Java).*
-- **[Dashboard Interativo](https://github.com/kauandias747474-hue/Dashboard-interativo-)**: Prática de interface e layout moderno com JS. *(Modern interface and layout practice).*
+- **[Java-Backend-Architecture](https://github.com/kauandias747474-hue/Java-)**: Práticas de engenharia, padrões de projeto e backend robusto com Java. *(Backend engineering and design patterns with Java).*
+- **[Advyze (Dashboard Interativo)](https://github.com/kauandias747474-hue/Dashboard-interativo-)**: Interface moderna e layout responsivo desenvolvido com JS. *(Modern interface and responsive layout).*
 
 ---
 
