@@ -32,14 +32,14 @@ Unlike superficial learning, I focus on real knowledge absorption:
 
 ## 🇩🇪 Deutsch
 
-**Autodidaktischer Entwickler | Software-Engineering & Low-Level Enthusiast**
+**Selbsttaught Entwickler | Software Engineering & Low-Level Enthusiast**
 
-Ich bin ein Entwickler, der sich auf Software-Engineering und Computer-Grundlagen konzentriert. Ich folge einer tiefgehenden Lernmethodik durch Bücher und technische Dokumentationen, um bis 2026 ein solides Fundament aufzubauen.
+Ich bin ein Entwickler, der sich auf Software-Engineering und Computer-Grundlagen konzentriert. Ich verfolge eine tiefgehende Lernmethodik durch Fachbücher und technische Dokumentation, um eine solide Basis für 2026 aufzubauen.
 
 ### 📖 Lernmethodik
 Im Gegensatz zu oberflächlichem Lernen konzentriere ich mich auf die echte Aufnahme von Wissen:
-- **Offline-Studium:** Verwendung von Notizbüchern und Fachbüchern zur Festigung von Logik, Algorithmen und Systemarchitektur.
-- **Dokumentation:** Direktes Lesen offizieller Dokumentationen, um die internen Funktionsweisen der Sprachen (C/Java) zu verstehen.
+- **Offline-Studium:** Verwendung von Fachbüchern zur Festigung von Logik, Algorithmen und Systemarchitektur.
+- **Dokumentation:** Direktes Lesen offizieller Dokumentationen, um das Innenleben von Sprachen (C/Java) zu verstehen.
 
 ---
 
@@ -47,23 +47,25 @@ Im Gegensatz zu oberflächlichem Lernen konzentriere ich mich auf die echte Aufn
 
 **Desarrollador Autodidacta | Software Engineering & Low-Level Enthusiast**
 
-Soy un desarrollador enfocado en la ingeniería de software y los fundamentos de la computación. Sigo una metodología de estudio profundo a través de libros y documentación técnica, consolidando el conocimiento de forma sólida para 2026.
+Soy un desarrollador enfocado en la ingeniería de software y los fundamentos de la computación. Sigo una metodología de estudo profundo a través de libros y documentación técnica, consolidando el conocimiento de forma sólida para 2026.
 
 ### 📖 Metodología de Estudio
 A diferencia del aprendizaje superficial, me enfoco en la absorción real del contenido:
 - **Estudio Offline:** Uso de cuadernos y libros técnicos para la fijación de lógica, algoritmos y arquitectura de sistemas.
-- **Documentación:** Lectura directa de documentaciones oficiales para entender el funcionamiento interno de los lenguajes (C/Java).
+- **Documentação:** Lectura directa de documentaciones oficiales para entender el funcionamiento interno de los lenguajes (C/Java).
 
 ---
 
 ### 🛠️ Foco Atual | Current Focus (Deep Dive)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 
-- **Linguagem C & ESP32:** Iniciando no mundo dos sistemas embarcados e IoT através do ESP32, focando em manipulação de memória.
-- **Java Backend:** Estruturação de código limpo e padrões de projeto (S.O.L.I.D).
+- **Sistemas de Baixo Nível & Backend:** Especialização profunda em **C** (gestão de memória/ESP32) e **Java** (S.O.L.I.D). ⚙️
+- **Cibersegurança:** Auditoria de segurança e Pentesting com Kali Linux para garantir a integridade do código. 🛡️
+- **Front-end Exploration:** Expandindo conhecimentos de forma gradual para complementar a robustez do backend. ✨
+  - ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
 
 ---
 
@@ -71,26 +73,15 @@ A diferencia del aprendizaje superficial, me enfoco en la absorción real del co
 ![EndeavourOS](https://img.shields.io/badge/EndeavourOS-%237f3fbf.svg?style=for-the-badge&logo=EndeavourOS&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 
-- **OS:** Utilizo ambientes Arch-based (EndeavourOS) e ferramentas de segurança no Kali Linux para fortalecer a soberania técnica.
-
----
-
-### 🔮 Roadmap & Futuro (Future Goals)
-![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-%2300599C.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)
-
-- **Infraestrutura:** Implementação de um Home Server próprio e automações residenciais.
-- **Cibersegurança:** Hardening de sistemas e segurança em IoT.
+- **OS:** Utilizo ambientes Arch-based (EndeavourOS) e ferramentas de segurança no Kali Linux para fortalecer a soberania técnica. 🐧
 
 ---
 
 ### 🚀 Projetos em Destaque | Featured Projects
 
-- **[Aprendizado-C](https://github.com/kauandias747474-hue/C-)**: Minha jornada no baixo nível e lógica pura.
-- **[Java-Backend-Architecture](https://github.com/kauandias747474-hue/Java-)**: Evolução em arquitetura e escalabilidade.
-- **[Advyze (Dashboard Interativo)](https://github.com/kauandias747474-hue/Dashboard-interativo-)**: Experiência em interfaces modernas com JS.
+- **[Advyze (Dashboard Interativo)](https://github.com/kauandias747474-hue/Dashboard-interativo-)**: Experiência prática em interfaces modernas e manipulação de dados com JS. Focado em UX e fluidez visual. 🎨⚡
+- **[Aprendizado-C](https://github.com/kauandias747474-hue/C-)**: Repositório central da minha jornada no baixo nível e lógica pura. 🧠
+- **[Java-Backend-Architecture](https://github.com/kauandias747474-hue/Java-)**: Evolução em arquitetura e escalabilidade backend. 🏗️
 
 ---
 
