@@ -1,5 +1,8 @@
 # Olá, eu sou o Kauan Oliveira 👋
 
+> **Systems Engineer | Specialized in Mission-Critical Systems & IoT Security** 🛡️  
+> *Bridging the gap between Low-Level Hardware and Scalable Backend Architecture.*
+
 [Português](#-português) | [English](#-english) | [Deutsch](#-deutsch) | [Español](#-español)
 
 ---
@@ -13,45 +16,46 @@ Sou um desenvolvedor focado em engenharia de software e nos fundamentos da compu
 ### 📖 Metodologia de Estudo
 Diferente do aprendizado superficial, foco na absorção real do conteúdo:
 - **Estudo Offline:** Uso de cadernos e livros técnicos para fixação de lógica, algoritmos e arquitetura de sistemas.
+- **Modelagem em Papel A4:** Uso exclusivo de folhas A4 para matemática e lógica de algoritmos antes da implementação.
 - **Documentação:** Leitura direta de documentações oficiais para entender o funcionamento interno das linguagens (C/Java).
 
 ---
 
 ## 🇺🇸 English
 
-**Self-Taught Developer | Software Engineering & Low-Level Enthusiast**
+**Systems Engineer | Software Engineering & Low-Level Enthusiast**
 
 I am a developer focused on software engineering and computing fundamentals. I follow a deep study methodology through books and technical documentation, building a solid foundation for 2026.
 
 ### 📖 Study Methodology
-Unlike superficial learning, I focus on real knowledge absorption:
 - **Offline Study:** Using notebooks and technical books to master logic, algorithms, and systems architecture.
+- **A4 Paper Modeling:** Exclusive use of A4 sheets for Mathematics and Logic design before coding.
 - **Documentation:** Reading official documentation to understand the internal workings of languages (C/Java).
 
 ---
 
 ## 🇩🇪 Deutsch
 
-**Selbsttaught Entwickler | Software Engineering & Low-Level Enthusiast**
+**Autodidaktischer Systementwickler | Software Engineering & Low-Level Enthusiast**
 
 Ich bin ein Entwickler, der sich auf Software-Engineering und Computer-Grundlagen konzentriert. Ich verfolge eine tiefgehende Lernmethodik durch Fachbücher und technische Dokumentation, um eine solide Basis für 2026 aufzubauen.
 
 ### 📖 Lernmethodik
-Im Gegensatz zu oberflächlichem Lernen konzentriere ich mich auf die echte Aufnahme von Wissen:
 - **Offline-Studium:** Verwendung von Fachbüchern zur Festigung von Logik, Algorithmen und Systemarchitektur.
+- **A4-Papier Modellierung:** Exklusive Nutzung von A4-Blättern für Mathematik und Logik vor der Programmierung.
 - **Dokumentation:** Direktes Lesen offizieller Dokumentationen, um das Innenleben von Sprachen (C/Java) zu verstehen.
 
 ---
 
 ## 🇪🇸 Español
 
-**Desarrollador Autodidacta | Software Engineering & Low-Level Enthusiast**
+**Ingeniero de Sistemas | Software Engineering & Low-Level Enthusiast**
 
 Soy un desarrollador enfocado en la ingeniería de software y los fundamentos de la computación. Sigo una metodología de estudio profundo a través de libros y documentación técnica, consolidando el conocimiento de forma sólida para 2026.
 
 ### 📖 Metodología de Estudio
-A diferencia del aprendizaje superficial, me enfoco en la absorción real del contenido:
 - **Estudio Offline:** Uso de cuadernos y libros técnicos para la fijación de lógica, algoritmos y arquitectura de sistemas.
+- **Modelado en Papel A4:** Uso exclusivo de hojas A4 para matemáticas y lógica antes de la codificación.
 - **Documentación:** Lectura directa de documentaciones oficiales para entender el funcionamiento interno de los lenguajes (C/Java).
 
 ---
@@ -59,13 +63,15 @@ A diferencia del aprendizaje superficial, me enfoco en la absorción real del co
 ### 🛠️ Foco Atual | Current Focus (Deep Dive)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 
-- **Sistemas de Baixo Nível & Backend:** Especialização em **C** (gestão de memória/ESP32) e **Java** (S.O.L.I.D). ⚙️
-- **Cibersegurança:** Auditoria de segurança e Pentesting com Kali Linux para garantir código resiliente. 🛡️
-- **Front-end Exploration:** Expandindo conhecimentos de forma gradual para suporte Full-Stack. Meu foco principal permanece nas linguagens de engenharia, mas utilizo o Front para viabilizar interfaces modernas. 
-  - ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
+- **Sistemas de Baixo Nível & IoT:** Especialização em **C** (gestão de memória) e desenvolvimento de firmware para **ESP32**. ⚙️
+- **Backend Architecture:** Java (S.O.L.I.D) focado em sistemas robustos e escaláveis. 🏗️
+- **Cibersegurança:** Auditoria de segurança e Pentesting com Kali Linux para garantir código resiliente e soberania técnica. 🛡️
+- **Front-end Exploration:** Suporte Full-Stack com interfaces modernas. 
+  - ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 
 ---
 
@@ -73,7 +79,7 @@ A diferencia del aprendizaje superficial, me enfoco en la absorción real del co
 ![EndeavourOS](https://img.shields.io/badge/EndeavourOS-%237f3fbf.svg?style=for-the-badge&logo=EndeavourOS&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 
-- **OS:** Utilizo ambientes Arch-based (EndeavourOS) e ferramentas de segurança no Kali Linux para fortalecer a soberania técnica. 🐧
+- **OS:** Ambientes Arch-based (EndeavourOS) e ferramentas de segurança no Kali Linux. 🐧
 
 ---
 
@@ -83,16 +89,16 @@ A diferencia del aprendizaje superficial, me enfoco en la absorción real del co
 ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-%2300599C.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)
 
-- **Infraestrutura:** Implementação de um Home Server próprio e automações residenciais.
+- **Infraestrutura:** Implementação de um Home Server próprio e automações residenciais seguras.
 - **Cibersegurança Avançada:** Hardening de sistemas, segurança em IoT e estudo de Assembly para engenharia reversa.
 
 ---
 
 ### 🚀 Projetos em Destaque | Featured Projects
 
-- **[Advyze (Dashboard Interativo)](https://github.com/kauandias747474-hue/Dashboard-interativo-)**: Experiência prática em interfaces modernas e manipulação de dados com JS. Focado em UX e fluidez visual. 🎨⚡
-- **[Aprendizado-C](https://github.com/kauandias747474-hue/C-)**: Repositório central da minha jornada no baixo nível e lógica pura. 🧠
-- **[Java-Backend-Architecture](https://github.com/kauandias747474-hue/Java-)**: Evolução em arquitetura, padrões de projeto e escalabilidade backend. 🏗️
+- **[Advyze (Dashboard Interativo)](https://github.com/kauandias747474-hue/Dashboard-interativo-)**: Interfaces modernas e manipulação de dados com JS. 🎨⚡
+- **[Aprendizado-C](https://github.com/kauandias747474-hue/C-)**: Jornada no baixo nível, lógica pura e firmware. 🧠
+- **[Java-Backend-Architecture](https://github.com/kauandias747474-hue/Java-)**: Evolução em arquitetura, padrões de projeto e escalabilidade. 🏗️
 
 ---
 
@@ -120,5 +126,4 @@ A diferencia del aprendizaje superficial, me enfoco en la absorción real del co
 - **LinkedIn:** [Kauan Oliveira](https://www.linkedin.com/in/kauan-oliveira-119934336/)
 
 ---
-*"Construindo conhecimento de forma autodidata e focado na soberania técnica."*
-*"Building knowledge as a self-taught developer focused on technical sovereignty."*
+*"Construindo conhecimento de forma autodidata e focado na soberania técnica."* *"Building knowledge as a self-taught developer focused on technical sovereignty."*
