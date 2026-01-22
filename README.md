@@ -64,7 +64,7 @@ A diferencia del aprendizaje superficial, me enfoco en la absorción real del co
 
 - **Sistemas de Baixo Nível & Backend:** Especialização em **C** (gestão de memória/ESP32) e **Java** (S.O.L.I.D). ⚙️
 - **Cibersegurança:** Auditoria de segurança e Pentesting com Kali Linux para garantir código resiliente. 🛡️
-- **Front-end Exploration:** Expandindo conhecimentos de forma gradual para suporte Full-Stack. Meu foco principal permanece nas linguagens de engenharia, mas utilizo o Front para viabilizar interfaces modernas. ✨
+- **Front-end Exploration:** Expandindo conhecimentos de forma gradual para suporte Full-Stack. Meu foco principal permanece nas linguagens de engenharia, mas utilizo o Front para viabilizar interfaces modernas. 
   - ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
 
 ---
