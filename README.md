@@ -96,6 +96,18 @@ A diferencia del aprendizaje superficial, me enfoco en la absorción real del co
 
 ---
 
+## 🔗 Perfis de Elite | Elite Profiles
+*Conecte-se comigo nas plataformas de engenharia e segurança:*
+
+<p align="left">
+  <a href="https://hackerone.com/kauandias747474-hue"><img src="https://img.shields.io/badge/HackerOne-Researcher-lightgrey?logo=hackerone&style=for-the-badge" /></a>
+  <a href="https://www.upwork.com/freelancers/~01ad97279bec18a667"><img src="https://img.shields.io/badge/Upwork-Verified-green?logo=upwork&style=for-the-badge" /></a>
+  <a href="https://arc.dev/dashboard/d/freelance-jobs/browse"><img src="https://img.shields.io/badge/Arc.dev-Developer-8040FF?style=for-the-badge" /></a>
+  <a href="https://developers.turing.com/dashboard/profile"><img src="https://img.shields.io/badge/Turing-Engineered-blue?style=for-the-badge" /></a>
+</p>
+
+---
+
 ### 📊 Estatísticas | Stats
 <p align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kauandias747474-hue&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
