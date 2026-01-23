@@ -59,6 +59,13 @@ Soy un desarrollador enfocado en la ingeniería de software y los fundamentos de
 - **Documentación:** Lectura directa de documentaciones oficiales para entender el funcionamiento interno de los lenguajes (C/Java).
 
 ---
+### 📚 Biblioteca de Engenharia | Engineering Bookshelf
+Atualmente mergulhado em fundamentos reais:
+- **Álgebra Linear** (José Luiz Boldrini) — *Aplicações em matrizes e transformações.*
+- **Fundamentos de Matemática Elementar - Vol 1** (Gelson Iezzi) — *Lógica e Conjuntos.*
+- **Clean Code** (Robert C. Martin) — *Artesanato de software.*
+- **Use a Cabeça Java** & **Fundamentos Reais em Java**.
+---
 
 ### 🛠️ Foco Atual | Current Focus (Deep Dive)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
