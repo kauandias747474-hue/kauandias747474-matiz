@@ -81,6 +81,18 @@ Atualmente mergulhado em fundamentos reais:
   - ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 
 ---
+### 🎨 Front-End Exploration (Learning & Evolution)
+> *Dedicado ao estudo profundo das tecnologias que compõem a Web nativa.*
+
+<p align="left">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+* **Foco no Aprendizado:** Atualmente mergulhado no estudo do **Critical Rendering Path** e na manipulação cirúrgica de DOM.
+* **Objetivo:** Estou em constante evolução para entender como o browser interpreta cada bit de código, buscando dominar a arte de criar interfaces ultra-rápidas sem depender de frameworks pesados.
+* **Prática:** Cada linha de código no meu Hub de Performance é um reflexo do que estou tentando aprender e aprimorar diariamente.
 
 ### 🖥️ Lab & OS (Environment)
 ![EndeavourOS](https://img.shields.io/badge/EndeavourOS-%237f3fbf.svg?style=for-the-badge&logo=EndeavourOS&logoColor=white)
