@@ -116,23 +116,6 @@ Atualmente mergulhado em fundamentos reais:
 
 ---
 
-### 🛠️ Foco Atual | Current Focus (Deep Dive)
-
-<p align="left">
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=kali-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Performance-High--Speed-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
-
-* **Engenharia de Performance:** Otimização do caminho crítico de renderização (CRP) e manipulação direta de DOM no **Front-End Performance Hub**.
-* **Backend & Escalabilidade:** Evolução contínua em **Java** para sistemas de missão crítica e alta concorrência.
-* **Soberania Técnica:** Pesquisa ativa em segurança ofensiva, análise de vulnerabilidades e Hardening no **Security Lab**.
-* **Sistemas de Baixo Nível:** Implementação de algoritmos matemáticos complexos (validados em papel A4) e gestão de recursos em **C**.
-
----
 
 ## 🔗 Perfis de Elite | Elite Profiles
 *Conecte-se comigo nas plataformas de engenharia e segurança:*
