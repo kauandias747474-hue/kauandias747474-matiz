@@ -100,12 +100,37 @@ Atualmente mergulhado em fundamentos reais:
 - **Cibersegurança Avançada:** Hardening de sistemas, segurança em IoT e estudo de Assembly para engenharia reversa.
 
 ---
-
 ### 🚀 Projetos em Destaque | Featured Projects
 
-- **[Advyze (Dashboard Interativo)](https://github.com/kauandias747474-hue/Dashboard-interativo-)**: Interfaces modernas e manipulação de dados com JS. 🎨⚡
-- **[Aprendizado-C](https://github.com/kauandias747474-hue/C-)**: Jornada no baixo nível, lógica pura e firmware. 🧠
-- **[Java-Backend-Architecture](https://github.com/kauandias747474-hue/Java-)**: Evolução em arquitetura, padrões de projeto e escalabilidade. 🏗️
+* **[🏛️ Front-End Performance Hub](https://github.com/kauandias747474-hue/front-end-performance-hub)**
+    Engenharia de interfaces de ultra-performance com Vanilla JS, focado em latência zero e renderização matemática. Hub de tecnologia para soluções SaaS. 🚀⚡
+
+* **[🏗️ Java Backend Architecture](https://github.com/kauandias747474-hue/Java-Backend-Architecture)**
+    Sistemas robustos e escaláveis seguindo padrões S.O.L.I.D, focado em arquitetura limpa e alta disponibilidade em nível corporativo. ☕🏢
+
+* **[🛡️ Security Lab & Pentesting](https://github.com/kauandias747474-hue/Security-Lab)**
+    Laboratório de cibersegurança, auditoria de código e testes de intrusão para garantir soberania técnica e segurança em sistemas críticos. 🔒☣️
+
+* **[⚙️ C Systems Engineering](https://github.com/kauandias747474-hue/C-Systems-Engineering)**
+    Desenvolvimento de baixo nível, gestão de memória manual e firmware para sistemas críticos e IoT. Onde o hardware encontra a lógica pura. 🧠💾
+
+---
+
+### 🛠️ Foco Atual | Current Focus (Deep Dive)
+
+<p align="left">
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=kali-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Performance-High--Speed-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+* **Engenharia de Performance:** Otimização do caminho crítico de renderização (CRP) e manipulação direta de DOM no **Front-End Performance Hub**.
+* **Backend & Escalabilidade:** Evolução contínua em **Java** para sistemas de missão crítica e alta concorrência.
+* **Soberania Técnica:** Pesquisa ativa em segurança ofensiva, análise de vulnerabilidades e Hardening no **Security Lab**.
+* **Sistemas de Baixo Nível:** Implementação de algoritmos matemáticos complexos (validados em papel A4) e gestão de recursos em **C**.
 
 ---
 
