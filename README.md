@@ -95,7 +95,6 @@ Atualmente mergulhado em fundamentos reais:
  ---
 
 ### 🖥️ Lab & OS (Environment)
-![EndeavourOS](https://img.shields.io/badge/EndeavourOS-%237f3fbf.svg?style=for-the-badge&logo=EndeavourOS&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 
 - **OS:** Ambientes Arch-based (EndeavourOS) e ferramentas de segurança no Kali Linux. 🐧
