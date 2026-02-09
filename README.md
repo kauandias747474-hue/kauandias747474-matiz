@@ -1,7 +1,7 @@
 # Olá, eu sou o Kauan Oliveira 👋
 
-> **Systems Engineer | Specialized in Mission-Critical Systems & IoT Security** 🛡️  
-> *Bridging the gap between Low-Level Hardware and Scalable Backend Architecture.*
+> **Systems Engineer | Specialized in Mission-Critical Systems & Software Security** 🛡️  
+> *Bridging the gap between Low-Level Code and Scalable Backend Architecture.*
 
 [Português](#-português) | [English](#-english) | [Deutsch](#-deutsch) | [Español](#-español)
 
@@ -11,7 +11,7 @@
 
 **Engenheiro de Sistemas | Software Engineering & Low-Level Enthusiast**
 
-Sou um desenvolvedor focado em engenharia de software e nos fundamentos da computação. Sigo uma metodologia de análise técnica profunda e estudo de documentação oficial, consolidando soluções robustas para sistemas de alta performance.
+Sou um desenvolvedor focado em engenharia de software e nos fundamentos da computação. Sigo uma metodologia de análise técnica profunda e estudo de documentação oficial, consolidando soluções robustas para sistemas de alta performance e missão crítica.
 
 ### 📖 Abordagem Técnica
 - **Design de Sistemas:** Foco em modelagem técnica e análise de complexidade algorítmica antes da implementação.
@@ -24,7 +24,7 @@ Sou um desenvolvedor focado em engenharia de software e nos fundamentos da compu
 
 **Systems Engineer | Software Engineering & Low-Level Enthusiast**
 
-I am a developer focused on software engineering and computing fundamentals. I follow a deep-dive methodology based on technical documentation and system design to build high-performance, robust solutions.
+I am a developer focused on software engineering and computing fundamentals. I follow a deep-dive methodology based on technical documentation and system design to build high-performance, robust, and mission-critical solutions.
 
 ### 📖 Technical Approach
 - **System Design:** Focus on technical modeling and algorithmic complexity analysis before implementation.
@@ -33,8 +33,29 @@ I am a developer focused on software engineering and computing fundamentals. I f
 
 ---
 
-## 🇩🇪 Deutsch | 🇪🇸 Español (Resumo)
-*Focused on Systems Engineering, Low-Level development (C/Java), and Security Architecture.*
+## 🇩🇪 Deutsch
+
+**Systemingenieur | Software Engineering & Low-Level Enthusiast**
+
+Ich bin ein Entwickler, der sich auf Software-Engineering und Computer-Grundlagen konzentriert. Ich verfolge eine tiefgehende Methodik basierend auf technischer Dokumentation und Systemdesign, um robuste Lösungen für Hochleistungssysteme und unternehmenskritische Anwendungen zu entwickeln.
+
+### 📖 Technischer Ansatz
+- **Systemdesign:** Fokus auf technische Modellierung und algorithmische Komplexitätsanalyse vor der Implementierung.
+- **Grundlagenforschung:** Fundierte Aneignung von Inhalten durch Fachliteratur zu Logik, Algorithmen und Architektur.
+- **Dokumentation:** Direktes Studium offizieller Spezifikationen (C/Java), um die internen Abläufe der Software zu verstehen.
+
+---
+
+## 🇪🇸 Español
+
+**Ingeniero de Sistemas | Software Engineering & Low-Level Enthusiast**
+
+Soy un desarrollador enfocado en la ingeniería de software y los fundamentos de la computación. Sigo una metodología de análisis técnico profundo y estudio de documentación oficial, consolidando soluciones robustas para sistemas de alto rendimiento y misión crítica.
+
+### 📖 Enfoque Técnico
+- **Diseño de Sistemas:** Enfoque en modelado técnico y análisis de complejidad algorítmica antes de la implementación.
+- **Ingeniería de Fundamentos:** Absorción real de contenido a través de literatura técnica sobre lógica, algoritmos y arquitectura.
+- **Documentación:** Estudio directo de especificaciones oficiales (C/Java) para entender el funcionamiento interno del software.
 
 ---
 
@@ -50,20 +71,19 @@ Atualmente focado em fundamentos sólidos:
 ### 🛠️ Foco Atual | Current Focus (Deep Dive)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 
-- **Sistemas de Baixo Nível & IoT:** Especialização em **C** (gestão de memória) e firmware para **ESP32**. ⚙️
-- **Backend Architecture:** Java (S.O.L.I.D) focado em sistemas distribuídos e escaláveis. 🏗️
-- **Segurança de Sistemas:** Desenvolvimento de código resiliente e auditoria técnica para garantir a integridade de sistemas críticos. 🛡️
+- **Sistemas de Baixo Nível:** Desenvolvimento em **C** com foco em gestão de memória manual e eficiência computacional. ⚙️
+- **Backend Architecture:** Java (S.O.L.I.D) focado em sistemas distribuídos, escaláveis e de alta disponibilidade. 🏗️
+- **Segurança de Sistemas:** Desenvolvimento de código resiliente e auditoria técnica para garantir a integridade de softwares críticos. 🛡️
 
 ---
 
 ### 🚀 Projetos em Destaque | Featured Projects
 
 * **[🛡️ Security Lab & Pentesting](https://github.com/kauandias747474-hue/Security-Lab)**
-    Laboratório de cibersegurança, auditoria de código e testes de intrusão para garantir soberania técnica e resiliência em sistemas críticos. 🔒
+    Laboratório de cibersegurança, auditoria de código e análise de vulnerabilidades para garantir resiliência em sistemas críticos. 🔒
 
 * **[🏛️ Front-End Performance Hub](https://github.com/kauandias747474-hue/front-end-performance-hub)**
     Engenharia de interfaces de alta performance com Vanilla JS, focado em Critical Rendering Path. ⚡
@@ -72,7 +92,7 @@ Atualmente focado em fundamentos sólidos:
     Sistemas escaláveis seguindo padrões S.O.L.I.D e Arquitetura Limpa. ☕
 
 * **[⚙️ C Systems Engineering](https://github.com/kauandias747474-hue/C-Systems-Engineering)**
-    Desenvolvimento de baixo nível e gestão de memória manual para sistemas críticos. 🧠💾
+    Desenvolvimento de baixo nível e algoritmos otimizados onde o hardware encontra a lógica pura. 🧠💾
 
 ---
 
