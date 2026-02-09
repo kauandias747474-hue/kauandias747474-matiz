@@ -9,15 +9,14 @@
 
 ## 🇧🇷 Português
 
-**Desenvolvedor Autodidata | Software Engineering & Low-Level Enthusiast**
+**Engenheiro de Sistemas | Software Engineering & Low-Level Enthusiast**
 
-Sou um desenvolvedor focado em engenharia de software e nos fundamentos da computação. Sigo uma metodologia de estudo profundo através de livros e documentação técnica, consolidando o conhecimento de forma sólida para 2026.
+Sou um desenvolvedor focado em engenharia de software e nos fundamentos da computação. Sigo uma metodologia de análise técnica profunda e estudo de documentação oficial, consolidando soluções robustas para sistemas de alta performance.
 
-### 📖 Metodologia de Estudo
-Diferente do aprendizado superficial, foco na absorção real do conteúdo:
-- **Estudo Offline:** Uso de cadernos e livros técnicos para fixação de lógica, algoritmos e arquitetura de sistemas.
-- **Modelagem em Papel A4:** Uso exclusivo de folhas A4 para matemática e lógica de algoritmos antes da implementação.
-- **Documentação:** Leitura direta de documentações oficiais para entender o funcionamento interno das linguagens (C/Java).
+### 📖 Abordagem Técnica
+- **Design de Sistemas:** Foco em modelagem técnica e análise de complexidade algorítmica antes da implementação.
+- **Engenharia de Fundamentos:** Absorção real de conteúdo através de literatura técnica sobre lógica, algoritmos e arquitetura.
+- **Documentação:** Estudo direto de especificações oficiais (C/Java) para entender o funcionamento interno do software.
 
 ---
 
@@ -25,114 +24,63 @@ Diferente do aprendizado superficial, foco na absorção real do conteúdo:
 
 **Systems Engineer | Software Engineering & Low-Level Enthusiast**
 
-I am a developer focused on software engineering and computing fundamentals. I follow a deep study methodology through books and technical documentation, building a solid foundation for 2026.
+I am a developer focused on software engineering and computing fundamentals. I follow a deep-dive methodology based on technical documentation and system design to build high-performance, robust solutions.
 
-### 📖 Study Methodology
-- **Offline Study:** Using notebooks and technical books to master logic, algorithms, and systems architecture.
-- **A4 Paper Modeling:** Exclusive use of A4 sheets for Mathematics and Logic design before coding.
-- **Documentation:** Reading official documentation to understand the internal workings of languages (C/Java).
-
----
-
-## 🇩🇪 Deutsch
-
-**Autodidaktischer Systementwickler | Software Engineering & Low-Level Enthusiast**
-
-Ich bin ein Entwickler, der sich auf Software-Engineering und Computer-Grundlagen konzentriert. Ich verfolge eine tiefgehende Lernmethodik durch Fachbücher und technische Dokumentation, um eine solide Basis für 2026 aufzubauen.
-
-### 📖 Lernmethodik
-- **Offline-Studium:** Verwendung von Fachbüchern zur Festigung von Logik, Algorithmen und Systemarchitektur.
-- **A4-Papier Modellierung:** Exklusive Nutzung von A4-Blättern für Mathematik und Logik vor der Programmierung.
-- **Dokumentation:** Direktes Lesen offizieller Dokumentationen, um das Innenleben von Sprachen (C/Java) zu verstehen.
+### 📖 Technical Approach
+- **System Design:** Focus on technical modeling and algorithmic complexity analysis before implementation.
+- **Foundational Engineering:** Mastering logic, algorithms, and architecture through technical literature.
+- **Documentation:** Direct study of official specifications (C/Java) to understand software internals.
 
 ---
 
-## 🇪🇸 Español
-
-**Ingeniero de Sistemas | Software Engineering & Low-Level Enthusiast**
-
-Soy un desarrollador enfocado en la ingeniería de software y los fundamentos de la computación. Sigo una metodología de estudio profundo a través de libros y documentación técnica, consolidando el conocimiento de forma sólida para 2026.
-
-### 📖 Metodología de Estudio
-- **Estudio Offline:** Uso de cuadernos y libros técnicos para la fijación de lógica, algoritmos y arquitectura de sistemas.
-- **Modelado en Papel A4:** Uso exclusivo de hojas A4 para matemáticas y lógica antes de la codificación.
-- **Documentación:** Lectura directa de documentaciones oficiales para entender el funcionamiento interno de los lenguajes (C/Java).
+## 🇩🇪 Deutsch | 🇪🇸 Español (Resumo)
+*Focused on Systems Engineering, Low-Level development (C/Java), and Security Architecture.*
 
 ---
+
 ### 📚 Biblioteca de Engenharia | Engineering Bookshelf
-Atualmente mergulhado em fundamentos reais:
-- **Álgebra Linear** (José Luiz Boldrini) — *Aplicações em matrizes e transformações.*
-- **Fundamentos de Matemática Elementar - Vol 1** (Gelson Iezzi) — *Lógica e Conjuntos.*
-- **Clean Code** (Robert C. Martin) — *Artesanato de software.*
-- **Use a Cabeça Java** & **Fundamentos Reais em Java**.
+Atualmente focado em fundamentos sólidos:
+- **Fundamentos de Matemática Elementar** (Gelson Iezzi) — *Lógica e Conjuntos.*
+- **Clean Code** (Robert C. Martin) — *Artesanato de software e código limpo.*
+- **Java: The Complete Reference** — *Exploração profunda da JVM e ecossistema Java.*
+- **Estruturas de Dados e Algoritmos** — *Otimização e eficiência de sistemas.*
+
 ---
 
 ### 🛠️ Foco Atual | Current Focus (Deep Dive)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 
-- **Sistemas de Baixo Nível & IoT:** Especialização em **C** (gestão de memória) e desenvolvimento de firmware para **ESP32**. ⚙️
-- **Backend Architecture:** Java (S.O.L.I.D) focado em sistemas robustos e escaláveis. 🏗️
-- **Cibersegurança:** Auditoria de segurança e Pentesting com Kali Linux para garantir código resiliente e soberania técnica. 🛡️
-- **Front-end Exploration:** Suporte Full-Stack com interfaces modernas. 
-  - ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-
----
-### 🎨 Front-End Exploration (Learning & Evolution) | Exploração Front-End (Aprendizado e Evolução)
-> *Dedicated to the deep study of native Web technologies. | Dedicado ao estudo profundo das tecnologias nativas da Web.*
-
-<p align="left">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
-* **🇺🇸 Learning Focus:** Currently diving deep into the **Critical Rendering Path** and surgical DOM manipulation. I am constantly evolving to understand how the browser interprets every bit of code, aiming to master the art of creating ultra-fast interfaces without heavy frameworks.
-* **🇧🇷 Foco no Aprendizado:** Atualmente mergulhado no estudo do **Critical Rendering Path** e na manipulação cirúrgica de DOM. Estou em constante evolução para entender como o browser interpreta cada bit de código, procurando dominar a arte de criar interfaces ultra-rápidas sem depender de frameworks pesados.
- ---
-
-### 🖥️ Lab & OS (Environment)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-
-- **OS:** Ambientes Arch-based (EndeavourOS) e ferramentas de segurança no Kali Linux. 🐧
+- **Sistemas de Baixo Nível & IoT:** Especialização em **C** (gestão de memória) e firmware para **ESP32**. ⚙️
+- **Backend Architecture:** Java (S.O.L.I.D) focado em sistemas distribuídos e escaláveis. 🏗️
+- **Segurança de Sistemas:** Desenvolvimento de código resiliente e auditoria técnica para garantir a integridade de sistemas críticos. 🛡️
 
 ---
 
-### 🔮 Roadmap & Futuro (Future Goals)
-![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-%2300599C.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)
-
-- **Infraestrutura:** Implementação de um Home Server próprio e automações residenciais seguras.
-- **Cibersegurança Avançada:** Hardening de sistemas, segurança em IoT e estudo de Assembly para engenharia reversa.
-
----
 ### 🚀 Projetos em Destaque | Featured Projects
 
+* **[🛡️ Security Lab & Pentesting](https://github.com/kauandias747474-hue/Security-Lab)**
+    Laboratório de cibersegurança, auditoria de código e testes de intrusão para garantir soberania técnica e resiliência em sistemas críticos. 🔒
+
 * **[🏛️ Front-End Performance Hub](https://github.com/kauandias747474-hue/front-end-performance-hub)**
-    Engenharia de interfaces de ultra-performance com Vanilla JS, focado em latência zero e renderização matemática. Hub de tecnologia para soluções SaaS. 🚀⚡
+    Engenharia de interfaces de alta performance com Vanilla JS, focado em Critical Rendering Path. ⚡
 
 * **[🏗️ Java Backend Architecture](https://github.com/kauandias747474-hue/Java-Backend-Architecture)**
-    Sistemas robustos e escaláveis seguindo padrões S.O.L.I.D, focado em arquitetura limpa e alta disponibilidade em nível corporativo. ☕🏢
-
-* **[🛡️ Security Lab & Pentesting](https://github.com/kauandias747474-hue/Security-Lab)**
-    Laboratório de cibersegurança, auditoria de código e testes de intrusão para garantir soberania técnica e segurança em sistemas críticos. 🔒☣️
+    Sistemas escaláveis seguindo padrões S.O.L.I.D e Arquitetura Limpa. ☕
 
 * **[⚙️ C Systems Engineering](https://github.com/kauandias747474-hue/C-Systems-Engineering)**
-    Desenvolvimento de baixo nível, gestão de memória manual e firmware para sistemas críticos e IoT. Onde o hardware encontra a lógica pura. 🧠💾
+    Desenvolvimento de baixo nível e gestão de memória manual para sistemas críticos. 🧠💾
 
 ---
 
-
-## 🔗 Perfis de Elite | Elite Profiles
-*Conecte-se comigo nas plataformas de engenharia e segurança:*
+## 🔗 Perfis Profissionais | Professional Profiles
+*Conecte-se comigo para colaborações em engenharia e desenvolvimento:*
 
 <p align="left">
-  <a href="https://hackerone.com/kauandias747474-hue"><img src="https://img.shields.io/badge/HackerOne-Researcher-lightgrey?logo=hackerone&style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/kauan-oliveira-119934336/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=for-the-badge" /></a>
   <a href="https://www.upwork.com/freelancers/~01ad97279bec18a667"><img src="https://img.shields.io/badge/Upwork-Verified-green?logo=upwork&style=for-the-badge" /></a>
   <a href="https://arc.dev/dashboard/d/freelance-jobs/browse"><img src="https://img.shields.io/badge/Arc.dev-Developer-8040FF?style=for-the-badge" /></a>
   <a href="https://developers.turing.com/dashboard/profile"><img src="https://img.shields.io/badge/Turing-Engineered-blue?style=for-the-badge" /></a>
@@ -152,4 +100,4 @@ Atualmente mergulhado em fundamentos reais:
 - **LinkedIn:** [Kauan Oliveira](https://www.linkedin.com/in/kauan-oliveira-119934336/)
 
 ---
-*"Construindo conhecimento de forma autodidata e focado na soberania técnica."* *"Building knowledge as a self-taught developer focused on technical sovereignty."*
+*"Construindo sistemas com soberania técnica e excelência em engenharia."*
