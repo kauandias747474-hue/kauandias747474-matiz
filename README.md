@@ -1,7 +1,7 @@
 # Olá, eu sou o Kauan Oliveira 👋
 
 > **Full-Stack Systems Engineer | Specialized in Mission-Critical Systems & Software Security** 🛡️  
-> *Bridging the gap between Low-Level Code and Scalable Backend Architecture.*
+> *Bridging the gap between Low-Level Efficiency and Scalable Backend Architecture.*
 
 [Português](#-português) | [English](#-english) | [Deutsch](#-deutsch) | [Español](#-español)
 
@@ -11,12 +11,12 @@
 
 **Engenheiro de Sistemas | Software Engineering & Low-Level Enthusiast**
 
-Sou um desenvolvedor focado em engenharia de software e nos fundamentos da computação. Sigo uma metodologia de análise técnica profunda e estudo de documentação oficial, consolidando soluções robustas para sistemas de alta performance e missão crítica através de evolução constante e refatoração precisa.
+Sou um desenvolvedor focado em engenharia de software e nos fundamentos da computação. Sigo uma metodologia de análise técnica profunda e estudo de documentação oficial, consolidando soluções robustas para sistemas de alta performance através de evolução constante e refatoração precisa.
 
 ### 📖 Abordagem Técnica
-- **Design de Sistemas:** Foco em modelagem técnica e análise de complexidade algorítmica antes da implementação.
-- **Engenharia de Fundamentos:** Absorção real de conteúdo através de literatura técnica sobre lógica, algoritmos e arquitetura.
-- **Documentação:** Estudo direto de especificações oficiais (C/Java) para entender o funcionamento interno do software.
+- **Design de Sistemas:** Modelagem técnica e análise de complexidade algorítmica (Big O) pré-implementação.
+- **Engenharia de Fundamentos:** Imersão em literatura técnica sobre lógica, algoritmos e arquitetura.
+- **Documentação:** Estudo direto de especificações oficiais (ISO C / Java LTS) para domínio dos internals do software.
 
 ---
 
@@ -27,84 +27,67 @@ Sou um desenvolvedor focado em engenharia de software e nos fundamentos da compu
 I am a developer focused on software engineering and computing fundamentals. I follow a deep-dive methodology based on technical documentation and system design to build high-performance, robust, and mission-critical solutions through constant evolution and precise refactoring.
 
 ### 📖 Technical Approach
-- **System Design:** Focus on technical modeling and algorithmic complexity analysis before implementation.
-- **Foundational Engineering:** Mastering logic, algorithms, and architecture through technical literature.
-- **Documentation:** Direct study of official specifications (C/Java) to understand software internals.
+- **System Design:** Technical modeling and algorithmic complexity analysis (Big O) before implementation.
+- **Foundational Engineering:** Mastering logic, algorithms, and architecture through high-level technical literature.
+- **Documentation:** Direct study of official specifications (ISO C / Java LTS) to master software internals.
 
 ---
 
-## 🇩🇪 Deutsch
-
-**Systemingenieur | Software Engineering & Low-Level Enthusiast**
-
-Ich bin ein Entwickler, der sich auf Software-Engineering und Computer-Grundlagen konzentriert. Ich verfolge eine tiefgehende Methodik basierend auf technischer Dokumentation und Systemdesign, um robuste Lösungen für Hochleistungssysteme und unternehmenskritische Anwendungen zu entwickeln.
-
-### 📖 Technischer Ansatz
-- **Systemdesign:** Fokus auf technische Modellierung und algorithmische Komplexitätsanalyse vor der Implementierung.
-- **Grundlagenforschung:** Fundierte Aneignung von Inhalten durch Fachliteratur zu Logik, Algorithmen und Architektur.
-- **Dokumentation:** Direktes Studium offizieller Spezifikationen (C/Java), um die internen Abläufe der Software zu verstehen.
-
----
-
-## 🇪🇸 Español
-
-**Ingeniero de Sistemas | Software Engineering & Low-Level Enthusiast**
-
-Soy un desarrollador enfocado en la ingeniería de software y los fundamentos de la computación. Sigo una metodología de análisis técnico profundo e estudio de documentación oficial, consolidando soluciones robustas para sistemas de alto rendimiento y misión crítica a través de la evolución constante y refactorización precisa.
-
-### 📖 Enfoque Técnico
-- **Diseño de Sistemas:** Enfoque en modelado técnico y análisis de complejidad algorítmica antes de la implementación.
-- **Ingeniería de Fundamentos:** Absorción real de contenido a través de literatura técnica sobre lógica, algoritmos y arquitectura.
-- **Documentación:** Estudio directo de especificaciones oficiales (C/Java) para entender el funcionamiento interno del software.
+## 🇩🇪 Deutsch | 🇪🇸 Español (Multilingual Engineering)
+*Systemingenieur & Full-Stack-Entwickler | Ingeniero de Sistemas y Desarrollador Full-Stack*
 
 ---
 
 ### 💡 How I Can Help You | Como posso ajudar
-- **Full-Stack Development:** Delivering end-to-end applications from database to UI.
-- **Legacy Code Refactoring:** Improving performance and security in existing Java or C codebases.
-- **Security Auditing:** Identifying vulnerabilities and hardening system architecture.
-- **System Integration:** Connecting backends with efficient front-end interfaces.
+- **Full-Stack Development:** Entrega de aplicações ponta a ponta, do banco de dados à interface UI/UX.
+- **High-Performance C & Java:** Otimização de sistemas críticos para máxima eficiência e baixa latência.
+- **Security Auditing & Hardening:** Identificação de vulnerabilidades e proteção de arquiteturas de software.
+- **System Integration:** Conexão de backends complexos com interfaces front-end de alta performance.
 
 ---
 
 ### 🧠 Engineering Mindset | Mentalidade de Engenharia
-- **Scalability / Escalabilidade:** Designing systems that grow without losing performance.
-- **Maintainability / Manutenibilidade:** Writing clean, documented, and testable code (SOLID/DRY).
-- **Security-by-Design / Segurança Nativa:** Security is not an afterthought; it’s part of the architecture.
-- **Performance / Desempenho:** Constant focus on memory management and execution speed.
+- **Scalability:** Projetar sistemas distribuídos preparados para crescimento exponencial.
+- **Software Craftsmanship:** Escrita de código limpo, documentado e testável (SOLID / DRY / KISS).
+- **Security-by-Design:** A segurança como pilar estrutural da arquitetura, não um detalhe final.
+- **Memory Management:** Foco rigoroso em eficiência computacional e gestão de recursos.
 
 ---
 
-### 🛠️ Foco Atual | Current Focus (Deep Dive)
+### 🛠️ Tecnologias & Ecossistema | Tech Stack
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 
-- **Backend Architecture:** Java (S.O.L.I.D) focado em sistemas distribuídos e escaláveis. 🏗️
-- **Sistemas de Baixo Nível:** Desenvolvimento em **C** (Ciclo Finalizado) com foco em gestão de memória. ⚙️
-- **Segurança de Sistemas:** Desenvolvimento de código resiliente e auditoria técnica. 🛡️
+- **Backend:** Java (Architecture & Security), C (Systems & Core Logic), SQL (SQLite/JDBC).
+- **Frontend:** Vanilla JS Engineering, CSS3/HTML5 (Performance Hub).
+- **Infrasctructure:** Linux Systems (Debian/Kali), Bash Scripting, Git Flow.
 
 ---
 
 ### 🚀 Projetos em Destaque | Featured Projects
 
 * **[🏗️ Java Backend Architecture](https://github.com/kauandias747474-hue/Java-Backend-Architecture)**
-    Sistemas escaláveis seguindo padrões S.O.L.I.D e Arquitetura Limpa. ☕
+    Sistemas escaláveis seguindo padrões Clean Architecture e S.O.L.I.D. ☕
 * **[🛡️ Security Lab & Pentesting](https://github.com/kauandias747474-hue/Security-Lab)**
-    Laboratório de cibersegurança e análise de vulnerabilidades para sistemas críticos. 🔒
+    Laboratório de auditoria de código e análise de vulnerabilidades em ambientes críticos. 🔒
 * **[🏛️ Front-End Performance Hub](https://github.com/kauandias747474-hue/front-end-performance-hub)**
-    Engenharia de interfaces de alta performance com foco em renderização otimizada. ⚡
+    Interfaces de alta performance focadas em Critical Rendering Path e otimização de ativos. ⚡
 * **[⚙️ C Systems Engineering](https://github.com/kauandias747474-hue/C-Systems-Engineering)**
-    Desenvolvimento de baixo nível e algoritmos otimizados onde o hardware encontra a lógica pura. (Finalizado) 🧠
+    Onde o hardware encontra a lógica: Algoritmos otimizados e gestão rigorosa de memória. 🧠
 
 ---
 
 ### 📚 Biblioteca de Engenharia | Engineering Bookshelf
+*Formação técnica baseada em literatura de referência:*
 - **Fundamentos de Matemática Elementar** (Gelson Iezzi) — *Lógica e Conjuntos.*
-- **Clean Code** (Robert C. Martin) — *Artesanato de software e código limpo.*
-- **Java: The Complete Reference** — *Exploração profunda da JVM e ecossistema Java.*
-- **Estruturas de Dados e Algoritmos** — *Otimização e eficiência de sistemas.*
+- **Clean Code** (Robert C. Martin) — *Artesanato de software.*
+- **Use a Cabeça! Java** (Sierra & Bates) — *Fundamentos de OO e sintaxe.*
+- **Desenvolvimento Real de Software em Java** (Urma & Warburton) — *Design orientado a projetos.*
+- **Java: The Complete Reference** — *Exploração profunda da JVM.*
+- **Estruturas de Dados e Algoritmos** — *Otimização e eficiência.*
 
 ---
 
