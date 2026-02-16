@@ -71,8 +71,6 @@ I am a developer focused on software engineering and computing fundamentals. I f
 
 * **[🏗️ Java Backend Architecture](https://github.com/kauandias747474-hue/Java-Backend-Architecture)**
     Sistemas escaláveis seguindo padrões Clean Architecture e S.O.L.I.D. ☕
-* **[🛡️ Security Lab & Pentesting](https://github.com/kauandias747474-hue/Security-Lab)**
-    Laboratório de auditoria de código e análise de vulnerabilidades em ambientes críticos. 🔒
 * **[🏛️ Front-End Performance Hub](https://github.com/kauandias747474-hue/front-end-performance-hub)**
     Interfaces de alta performance focadas em Critical Rendering Path e otimização de ativos. ⚡
 * **[⚙️ C Systems Engineering](https://github.com/kauandias747474-hue/C-Systems-Engineering)**
@@ -86,8 +84,7 @@ I am a developer focused on software engineering and computing fundamentals. I f
 - **Clean Code** (Robert C. Martin) — *Artesanato de software.*
 - **Use a Cabeça! Java** (Sierra & Bates) — *Fundamentos de OO e sintaxe.*
 - **Desenvolvimento Real de Software em Java** (Urma & Warburton) — *Design orientado a projetos.*
-- **Java: The Complete Reference** — *Exploração profunda da JVM.*
-- **Estruturas de Dados e Algoritmos** — *Otimização e eficiência.*
+
 
 ---
 
